@@ -5,7 +5,7 @@
 # MakeCacheMatrix is used to create a special matrix and 
 # store the value of it's inverse for caching. Further 
 # descriptions are provdied for each object within this 
-# function
+# function.
 
 makeCacheMatrix <- function(x = matrix()) {
         #initialised value of the inverse
